@@ -6,7 +6,7 @@ import WomenClothing from './component/WomenClothing';
 function App() {
   return (
     <div className="App">
-   <WomenClothing/>
+   <Homepage/>
     </div>
   );
 }
